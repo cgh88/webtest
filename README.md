@@ -29,6 +29,3 @@ column name | value
 ------------|-------
 row1        | 123
 row2        | 456
-
-
-An ++ underline ++, also called an underscore is one or more +horizontal lines+ immediately below a portion of writing.
