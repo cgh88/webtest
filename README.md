@@ -25,20 +25,10 @@ This is [an example](http://example.com/ "asdf") inline link.
 
 [This link](http://example.net/) has no title attribute.
 
-
-I get 10 times more traffic from [Google][] than from
-[Yahoo][] or [MSN][].
-  [google]: http://google.com/        "Google"
-  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-  [msn]:    http://search.msn.com/    "MSN Search"
-  
-  
-Contact to <example@example.com>.
-
 column name | value
 ------------|-------
 row1        | 123
 row2        | 456
 
 
-An +underline+, also called an underscore is one or more +horizontal lines+ immediately below a portion of writing.
+An ++ underline ++, also called an underscore is one or more +horizontal lines+ immediately below a portion of writing.
